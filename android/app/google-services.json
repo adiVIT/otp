@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "394796501886",
+    "project_id": "phone-firebase-4ce21",
+    "storage_bucket": "phone-firebase-4ce21.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:394796501886:android:d973156c6bb6d33f75412f",
+        "android_client_info": {
+          "package_name": "com.example.otp_varification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "394796501886-00mb7b8054qn9nkqitv65kco52tf8qdk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAZMwS0ahxtDIeGyUP76BXekywtpgZUwGk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "394796501886-00mb7b8054qn9nkqitv65kco52tf8qdk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
